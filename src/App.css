@@ -1,0 +1,64 @@
+body{
+  background-color: #E8E8E8;
+}
+  
+.gifs {
+  margin-left: -5px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gif {
+  margin-top: 25px;
+}
+
+img{
+  height: 260px;
+  width: 350px;
+  border: 2px solid black;
+}
+
+.loader {
+  color: blue;
+  margin-top: 40px;
+}
+
+.container{
+  background-color: #fdfff5;
+  margin-top: 50px;
+  margin-bottom: 52px;
+  width: 100%;
+}
+
+.btn{
+  color: white;
+  background-color: black;
+  margin-left: 5px;
+  padding: auto;
+}
+
+form{
+  padding-top: 25px;
+}
+
+::placeholder{
+  background-color: #F8F8F8;
+  font-weight: 300;
+  color: black !important;
+}
+
+.form-inline .form-control {
+  width: 90%;
+}
+
+nav{
+  margin-top: 30px;
+  padding: 20px;
+}
+
+form > i{
+  margin-top: 2px;
+  margin-left: 6px;
+}
