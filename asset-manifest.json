@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/API-Giphy-React/!/static/css/main.2fec17f8.css",
+    "main.js": "/API-Giphy-React/!/static/js/main.4292b6d0.js",
+    "index.html": "/API-Giphy-React/!/index.html",
+    "main.2fec17f8.css.map": "/API-Giphy-React/!/static/css/main.2fec17f8.css.map",
+    "main.4292b6d0.js.map": "/API-Giphy-React/!/static/js/main.4292b6d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fec17f8.css",
+    "static/js/main.4292b6d0.js"
+  ]
+}
