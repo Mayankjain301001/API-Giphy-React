@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Mayankjain301001.github.io/Giphy-API-ReactJS",
+  "homepage": "https://Mayankjain301001.github.io/API-Giphy-React/!#",
   "name": "giphy",
   "version": "0.1.0",
   "private": true,
@@ -8,7 +8,6 @@
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
-    "gh-pages": "^4.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-router": "^6.3.0",
@@ -42,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
